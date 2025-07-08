@@ -9,10 +9,10 @@ Apart from this, a tab layout UI is also in picture, which provides a bottom bar
 
 ## Screenshots
 
-<img src="app/src/main/java/com/example/jokeHub/images/ss1.png" width="200" alt="Launch Screen">
-<img src="app/src/main/java/com/example/jokeHub/images/ss2.png" width="200" alt="Joke of the Day">
-<img src="app/src/main/java/com/example/jokeHub/images/ss3.png" width="200" alt="Favourite Jokes">
-<img src="app/src/main/java/com/example/jokeHub/images/ss4.png" width="200" alt="Delete Fav ">
+<img src="app/src/main/java/com/example/JokeHub/images/ss1.png" width="200" alt="Launch Screen">
+<img src="app/src/main/java/com/example/JokeHub/images/ss2.png" width="200" alt="Joke of the Day">
+<img src="app/src/main/java/com/example/JokeHub/images/ss3.png" width="200" alt="Favourite Jokes">
+<img src="app/src/main/java/com/example/JokeHub/images/ss4.png" width="200" alt="Delete Fav ">
 
 
 
