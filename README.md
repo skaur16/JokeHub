@@ -9,10 +9,10 @@ Apart from this, a tab layout UI is also in picture, which provides a bottom bar
 
 ## Screenshots
 
-<img src="JokeHub/images/ss1.png" width="200" alt="Launch Screen">
-<img src="JokeHub/images/ss2.png" width="200" alt="Joke of the Day">
-<img src="JokeHub/images/ss3.png" width="200" alt="Favourite Jokes">
-<img src="JokeHub/images/ss4.png" width="200" alt="Delete Fav ">
+<img src="images/ss1.png" width="200" alt="Launch Screen">
+<img src="images/ss2.png" width="200" alt="Joke of the Day">
+<img src="images/ss3.png" width="200" alt="Favourite Jokes">
+<img src="images/ss4.png" width="200" alt="Delete Fav ">
 
 
 
